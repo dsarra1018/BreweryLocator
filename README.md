@@ -16,6 +16,6 @@ Users can input brewery name, type of beer, location, types of breweries, and ta
     SO THAT i can plan a trip and get directions to visit options provided
 
 ## APIs Used
-    [Brewery DB API](https://www.brewerydb.com/developers/docs)
+    Brewery DB API - https://www.brewerydb.com/developers/docs
 
-    [MapQuest API](https://developer.mapquest.com/documentation/)
+    MapQuest API - https://developer.mapquest.com/documentation/
