@@ -4,7 +4,7 @@ Users can input brewery name, type of beer, location, types of breweries, and ta
 
 ## Webpage
     
-    [Brewery Locator](https://linkm1993.github.io/BreweryLocator)
+   <https://linkm1993.github.io/BreweryLocator>
 
 
 ## USER STORY: 
